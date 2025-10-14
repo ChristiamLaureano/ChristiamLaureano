@@ -70,13 +70,13 @@ Me encanta aprender, crear proyectos funcionales y transformar ideas en solucion
 ### 🌐 Conéctate conmigo
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/TU_USUARIO" target="_blank">
+  <a href="[https://www.linkedin.com/in/TU_USUARIO](https://www.linkedin.com/in/christiam-raymer-laureano-louis-05a11b20b/)" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:christiamlouis@example.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://github.com/TU_USUARIO">
+  <a href="[https://github.com/TU_USUARIO](https://github.com/ChristiamLaureano)">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
