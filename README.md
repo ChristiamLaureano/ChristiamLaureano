@@ -1,4 +1,4 @@
-h1 align="center">Hi 👋, soy Christiam R. Laureano Louis</h1>
+ 👋, soy Christiam R. Laureano Louis</h1>
 <h3 align="center">Estudiante de ING.Sotfware</h3>
 
 - Frameworks de . NET, diseño responsivo con HTML, CSS y JavaScript, y manual de Advanced de SQL Server **Udemy ACADEMY**
