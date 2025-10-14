@@ -1,5 +1,5 @@
 <!-- Banner animado -->
-<img src="https://i.imgur.com/vtZQF1L.gif" width="100%" alt="Banner de presentación"/>
+<img src="[https://i.imgur.com/vtZQF1L.gif](https://images.unsplash.com/photo-1542831371-29b0f74f9713?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=80&w=870)" width="100%" alt="Banner de presentación"/>
 
 <h1 align="center">✨ ¡Hola, soy <strong>Christiam R. Laureano Louis</strong> 👋</h1>
 <h3 align="center">💻 Estudiante de Ingeniería en Software | C# | SQL Server | Frontend Developer</h3>
