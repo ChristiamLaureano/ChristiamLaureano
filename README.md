@@ -37,7 +37,7 @@ Me encanta aprender, crear proyectos funcionales y transformar ideas en solucion
 | 🤝 **I’m looking to collaborate on** | Proyectos educativos o de desarrollo **.NET / Web** | [Repositorio colaborativo](https://github.com/TU_USUARIO) |
 | 🌱 **I’m currently learning** | Frameworks de **.NET**, **Entity Framework**, **SQL avanzado** | - |
 | 💬 **Ask me about** | Desarrollo en **C#**, **bases de datos** y **optimización de consultas SQL** | - |
-| 📫 **How to reach me** | christiamlouis@example.com | [GitHub Profile](https://github.com/TU_USUARIO) |
+| 📫 **How to reach me** | christiamlouis@hotmail.com | [GitHub Profile](https://github.com/TU_USUARIO) |
 
 ---
 
