@@ -1,42 +1,11 @@
-## Hi there 👋
+h1 align="center">Hi 👋, soy Christiam R. Laureano Louis</h1>
+<h3 align="center">Estudiante de ING.Sotfware</h3>
 
-<!--
-# 👋 ¡Hola! Soy Christiam Laureano Louis
+- Frameworks de . NET, diseño responsivo con HTML, CSS y JavaScript, y manual de Advanced de SQL Server **Udemy ACADEMY**
 
-🎓 **Estudiante de Ingeniería en Software** apasionado por el desarrollo de sistemas, bases de datos y soluciones tecnológicas eficientes.
+<h3 align="left">Conéctate conmigo:</h3>
+<p align="left">
+</p>
 
----
-
-## 🚀 Sobre mí
-- 📚 Actualmente curso un Máster en **SQL Server**.
-- 🧠 Me interesa especializarme en **bases de datos** y **desarrollo de software empresarial**.
-- 💼 Estoy trabajando en proyectos como sistemas para **clínicas, policías nacionales y empresas internacionales** (FileMaker, C#, .NET Framework).
-- ⚙️ En mis ratos libres, optimizo mi **portafolio web** y aprendo nuevas tecnologías.
-
----
-
-## 🛠️ Tecnologías y herramientas
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-![FileMaker](https://img.shields.io/badge/FileMaker-0061A8?style=for-the-badge&logo=filemaker&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
----
-
-## 📊 Estadísticas de GitHub
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight)
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=tokyonight)
-
----
-
-## 🌐 Encuéntrame
-- 💼 [LinkedIn](https://www.linkedin.com/in/TU_USUARIO)
-- 🌍 [Portafolio Web](https://TU_PAGINA.com)
-- ✉️ **christiam@example.com**
-
----
-
-⭐ *“La tecnología es más poderosa cuando conecta a las personas.”*  
+<h3 align="left">Idiomas y herramientas:</h3>
+<p align="left"> <a href="https://offeescript.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicons/master/icons/coffeescript/coffeescript-original-wordmark.svg" alt="coffeescript" width="40" height="40"> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicons/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicons/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>*  
