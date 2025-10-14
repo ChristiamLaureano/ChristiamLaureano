@@ -1,72 +1,96 @@
-<!-- Encabezado principal -->
-<h1 align="center">👋 ¡Hola, soy Christiam R. Laureano Louis!</h1>
-<h3 align="center">💻 Estudiante de Ingeniería en Software | Apasionado por C#, SQL Server y el desarrollo web</h3>
+<!-- Banner animado -->
+<img src="https://i.imgur.com/vtZQF1L.gif" width="100%" alt="Banner de presentación"/>
+
+<h1 align="center">✨ ¡Hola, soy <strong>Christiam R. Laureano Louis</strong> 👋</h1>
+<h3 align="center">💻 Estudiante de Ingeniería en Software | C# | SQL Server | Frontend Developer</h3>
 
 ---
 
-### 🚀 Sobre mí
-- 🎓 Estudiante de **Ingeniería en Software**
-- 💡 Me apasiona crear soluciones eficientes con **C#**, **SQL Server** y **.NET Framework**
-- 🌱 Actualmente aprendiendo **Frameworks de .NET**, **diseño responsivo con HTML, CSS y JavaScript**, y curso de **SQL Server Avanzado (Udemy Academy)**
-- 💼 Interesado en proyectos de **desarrollo de sistemas empresariales**, **bases de datos** y **backend**
-- ⚡ Dato curioso: disfruto optimizar código y bases de datos tanto como un buen café ☕
-
----
-
-### 🛠️ Lenguajes y Herramientas
+### 🌟 Sobre mí
 
 <p align="center">
-  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="50" height="50" alt="C#"/></a>
-  <a href="https://dotnet.microsoft.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" width="50" height="50" alt=".NET"/></a>
-  <a href="https://www.microsoft.com/sql-server" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" width="50" height="50" alt="SQL Server"/></a>
-  <a href="https://www.w3.org/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="50" height="50" alt="HTML5"/></a>
-  <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="50" height="50" alt="CSS3"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="50" height="50" alt="JavaScript"/></a>
-  <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="50" height="50" alt="MySQL"/></a>
+Soy un apasionado de la tecnología, el desarrollo de software y las bases de datos.  
+Me encanta aprender, crear proyectos funcionales y transformar ideas en soluciones reales.  
+</p>
+
+- 🎓 **Estudiante de Ingeniería en Software**
+- 💡 Interesado en desarrollo **.NET**, **C#**, **bases de datos relacionales** y **frontend web**
+- 🌱 Actualmente aprendiendo **.NET Framework**, **HTML/CSS/JS** y **SQL Server avanzado (Udemy Academy)**
+- 🚀 Enfocado en proyectos prácticos que mejoren mis habilidades como programador
+- ⚡ Me gusta automatizar tareas, optimizar consultas SQL y diseñar interfaces limpias
+
+---
+
+### 🧠 Mis habilidades
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,html,css,js,sqlserver,mysql,git,github,vscode,windows&theme=dark" />
 </p>
 
 ---
 
-### 💼 Trabajo
+### 💼 Lo que estoy haciendo
 
-🛠️ **I’m currently working on:**  
-Sistema de gestión de clínicas y proyectos académicos en **C# y SQL Server**  
-🔗 [Ver proyecto](https://github.com/TU_USUARIO/clinic-system)
-
-🤝 **I’m looking to collaborate on:**  
-Proyectos de desarrollo **.NET** o **bases de datos empresariales**  
-🔗 [Repositorio de colaboración](https://github.com/TU_USUARIO)
-
-🌱 **I’m currently learning:**  
-Frameworks de **.NET**, **SQL Server Avanzado**, y buenas prácticas de **desarrollo web full stack**
-
-💬 **Ask me about:**  
-Desarrollo en **C#**, **Entity Framework**, **bases de datos relacionales** o **optimización SQL**
-
-📫 **How to reach me:**  
-✉️ christiamlouis@example.com *(reemplázalo por tu correo real)*  
-
-👨‍💻 **All of my projects are available at:**  
-[github.com/TU_USUARIO](https://github.com/TU_USUARIO)
+| 💻 Actividad | Descripción | Enlace |
+|--------------|--------------|---------|
+| 🛠️ **I’m currently working on** | Sistema de gestión de clínicas en **C# + SQL Server** | [Ver proyecto](https://github.com/TU_USUARIO/clinic-system) |
+| 🤝 **I’m looking to collaborate on** | Proyectos educativos o de desarrollo **.NET / Web** | [Repositorio colaborativo](https://github.com/TU_USUARIO) |
+| 🌱 **I’m currently learning** | Frameworks de **.NET**, **Entity Framework**, **SQL avanzado** | - |
+| 💬 **Ask me about** | Desarrollo en **C#**, **bases de datos** y **optimización de consultas SQL** | - |
+| 📫 **How to reach me** | christiamlouis@example.com | [GitHub Profile](https://github.com/TU_USUARIO) |
 
 ---
 
-### 📊 Estadísticas de GitHub
+### 📊 Mis estadísticas de GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight" alt="GitHub stats" height="160px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=tokyonight" alt="Top languages" height="160px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=radical" alt="GitHub stats" height="170px"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TU_USUARIO&theme=radical" alt="GitHub streak" height="170px"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=radical" height="160px"/>
+</p>
+
+---
+
+### 🚀 Mis herramientas favoritas
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 </p>
 
 ---
 
 ### 🌐 Conéctate conmigo
+
 <p align="center">
-  <a href="https://www.linkedin.com/in/TU_USUARIO" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:christiamlouis@example.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://github.com/TU_USUARIO" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/TU_USUARIO" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:christiamlouis@example.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://github.com/TU_USUARIO">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
 </p>
 
 ---
 
-⭐ *“La programación no solo trata de escribir código, sino de crear soluciones que inspiren.”*
+### ✨ Frase que me inspira
+
+<p align="center"><i>"La programación no solo se trata de escribir código, sino de crear soluciones que inspiren a otros."</i></p>
+
+---
+
+### 🐍 Animación divertida
+<p align="center">
+  <img src="https://raw.githubusercontent.com/TU_USUARIO/TU_USUARIO/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
+
