@@ -1,13 +1,13 @@
 # 👋 Hi, I'm Christiam R. Laureano Louis
 
-### Software Engineering Student | .NET & SQL Server Developer | IT Support
+### Software Engineering Student | C# & .NET Developer | SQL Server | Backend Development
 
 <p align="center">
   <img src="https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&q=80&w=1400" width="100%" alt="Software Development"/>
 </p>
 
 <p align="center">
-  <strong>Building practical software solutions with C#, .NET and SQL Server.</strong>
+  <strong>Building software solutions with C#, .NET and SQL Server.</strong>
 </p>
 
 <p align="center">
@@ -26,76 +26,94 @@
 
 ## 👨‍💻 About Me
 
-I'm a **Software Engineering student** passionate about software development, databases and technology.
+I'm a **Software Engineering student** passionate about software development, backend technologies and relational databases.
 
-My main focus is building practical applications that solve real-world problems, while continuously improving my skills in **C#, .NET, SQL Server and web development**.
+My main goal is to build reliable, maintainable and practical applications while continuously strengthening my knowledge of **C#, .NET, SQL Server and web development**.
 
 * 🎓 Software Engineering student
-* 💻 Focused on **C# / .NET development**
-* 🗄️ Interested in **SQL Server and database development**
-* 🌐 Learning and building applications with **HTML, CSS and JavaScript**
-* 🔧 Experience with **IT support and troubleshooting**
-* 📊 Interested in database optimization and data-oriented solutions
-* 🚀 Always working on personal and academic projects to improve my development skills
+* 💻 Focused on **C# and .NET development**
+* 🗄️ Passionate about **SQL Server and relational databases**
+* 🔗 Working with **Entity Framework**
+* 🌐 Developing applications with **HTML, CSS and JavaScript**
+* 🧠 Interested in backend development and software architecture
+* 🚀 Building projects to transform ideas into functional software
+* 📚 Continuously improving my programming and database skills
 
 ---
 
-## 🛠️ Technologies & Tools
+## 🛠️ Tech Stack
 
-### Programming & Development
+### Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,html,css,js" />
+  <img src="https://skillicons.dev/icons?i=cs,html,css,js" />
+</p>
+
+### Frameworks & Technologies
+
+<p>
+  <img src="https://skillicons.dev/icons?i=dotnet" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Entity%20Framework-512BD4?style=for-the-badge&logo=.net&logoColor=white"/>
 </p>
 
 ### Databases
 
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,sqlserver" />
+  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
+  <img src="https://skillicons.dev/icons?i=mysql" />
 </p>
 
-### Tools & Environment
+### Development Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,windows" />
+  <img src="https://skillicons.dev/icons?i=visualstudio,vscode,git,github" />
 </p>
 
 ---
 
-## 💼 Current Focus
+## 🎯 Current Focus
 
 ```text
-Software Development
-        │
-        ├── C# / .NET
-        │
-        ├── SQL Server
-        │     ├── Database Design
-        │     ├── Queries
-        │     ├── Optimization
-        │     └── Entity Framework
-        │
-        ├── Web Development
-        │     ├── HTML
-        │     ├── CSS
-        │     └── JavaScript
-        │
-        └── IT Support
-              ├── Troubleshooting
-              ├── Hardware
-              ├── Networks
-              └── Systems
+                 SOFTWARE ENGINEERING
+                         │
+          ┌──────────────┼──────────────┐
+          │              │              │
+        BACKEND       DATABASES        WEB
+          │              │              │
+       C# / .NET     SQL Server      HTML / CSS
+          │              │              │
+     Entity Framework   T-SQL       JavaScript
+          │              │
+          └──────────────┼──────────────┘
+                         │
+                 SOFTWARE DEVELOPMENT
 ```
+
+Currently focused on:
+
+* Advanced SQL Server
+* T-SQL
+* Database design
+* Query optimization
+* Entity Framework
+* C# development
+* .NET applications
+* Backend development
+* Web application development
+* Software architecture
 
 ---
 
-## 🚀 Featured Project
+## 🚀 Featured Projects
 
 ### 🏥 Clinic Management System
 
-A management system designed for dental/medical clinics, focused on organizing patients, appointments, services and administrative information.
+A software solution designed to manage the main operations of a dental clinic, including patients, appointments, services and administrative information.
 
-**Technologies:**
+**Technologies**
 
 `C#` `SQL Server` `.NET` `Entity Framework`
 
@@ -103,23 +121,39 @@ A management system designed for dental/medical clinics, focused on organizing p
 
 ---
 
-## 📚 Currently Learning
+### 👥 Human Resources Management System
 
-* Advanced SQL Server
-* Database optimization
-* Entity Framework
-* .NET development
-* Backend development
-* Web application development
-* Software architecture
-* Git & GitHub workflows
+Desktop application developed to manage employees, departments, positions and payroll processes.
+
+**Technologies**
+
+`C#` `.NET` `Entity Framework` `SQL Server`
+
+🔗 [View Project](https://github.com/ChristiamLaureano)
+
+---
+
+## 📚 Learning & Development
+
+I'm continuously expanding my knowledge in:
+
+```text
+C#                    ████████████████████
+SQL Server            ████████████████████
+.NET                   ██████████████████
+Entity Framework       ████████████████
+HTML / CSS             ███████████████
+JavaScript             ████████████
+Backend Development    ███████████████
+Software Architecture ███████████
+```
 
 ---
 
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ChristiamLaureano&show_icons=true&hide_border=true&theme=github_dark" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ChristiamLaureano&show_icons=true&hide_border=true&theme=github_dark&rank_icon=github" height="170"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ChristiamLaureano&hide_border=true&theme=github-dark" height="170"/>
 </p>
 
@@ -129,24 +163,13 @@ A management system designed for dental/medical clinics, focused on organizing p
 
 ---
 
-## 🧰 Favorite Tools
+## 💻 Development Philosophy
 
 <p align="center">
-
-<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white"/>
-<img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
-<img src="https://img.shields.io/badge/Entity%20Framework-512BD4?style=for-the-badge&logo=.net&logoColor=white"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-
+  <i>
+    "Good software is not only about writing code.<br>
+    It's about understanding problems and creating solutions."
+  </i>
 </p>
 
 ---
@@ -171,16 +194,8 @@ A management system designed for dental/medical clinics, focused on organizing p
 
 ---
 
-## 💡 Philosophy
-
 <p align="center">
-  <i>"Technology becomes valuable when it solves real problems."</i>
-</p>
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ChristiamLaureano&color=blue&style=flat-square&label=Profile+Views"/>
+  <img src="https://komarev.com/ghpvc/?username=ChristiamLaureano&style=flat-square&label=Profile+Views"/>
 </p>
 
 <p align="center">
