@@ -94,3 +94,16 @@ Me encanta aprender, crear proyectos funcionales y transformar ideas en solucion
   <img src="https://raw.githubusercontent.com/TU_USUARIO/TU_USUARIO/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
 
+
+📚 Learning & Development
+
+I'm continuously expanding my knowledge in:
+
+C#                    ████████████████████
+SQL Server            ████████████████████
+.NET                   ██████████████████
+Entity Framework       ████████████████
+HTML / CSS             ███████████████
+JavaScript             ████████████
+Backend Development    ███████████████
+Software Architecture ███████████
